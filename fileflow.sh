@@ -1,6 +1,4 @@
 #!/bin/bash
-# Bash Command-Line File Manager
-# Usage: ./fileflow.sh [start_directory]
 
 TRASH_DIR="$HOME/.fileflow_trash"
 SHOW_HIDDEN=0
